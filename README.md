@@ -85,12 +85,12 @@ More info:
     ./run_lampp_linux.sh
     ```
 2. Create the database using the ./utils/ntuaflix_create_schema.sql
-   2a. In your DBMS use this file 
-    b. If you are using linux run the following command in the terminal
+   - a. In your DBMS use this file 
+   - b. If you are using linux run the following command in the terminal
     ```sh
     ./create_schema_linux.sh
     ``` 
-    c. If you are using windows run the following command in the terminal
+   - c. If you are using windows run the following command in the terminal
     ```sh
     ./create_schema_windows.sh
     ```
